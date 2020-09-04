@@ -1,6 +1,7 @@
 
 public class MySorter {
 	public double[] sort(double[] d) {
+		private String name;
 		if (d.length == 0) {
 			double[] d2 = { 0.0 };
 			return d2;
